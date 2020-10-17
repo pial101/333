@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container h1{
+background: blue;
+float: left;
+padding: 240px;
+margin-left: 10px;
+
+
+}
+.container h2{
+background: blue;
+float: right;
+padding: 245px;
+margin-right: 10px;
+
+}
+.pial-1{
+	background: black;
+	float: left;
+	padding: 100px;
+	color: white;
+	margin: 9px;
+
+}
+.pial-2{
+	background: yellow;
+	float:left;
+	padding: 100px;
+	margin: 9px;
+}
+.pial-3{
+	background: red;
+	float: left;
+	padding: 100px;
+	margin: 9px;
+}
+.pial-4{
+	background: #0fff;
+	float: left;
+	padding: 100px;
+	margin: 9px;
+}
+
+
+
